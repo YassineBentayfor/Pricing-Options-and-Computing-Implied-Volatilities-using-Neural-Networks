@@ -200,4 +200,4 @@ The notebook is organized into 19 code cells with markdown explanations:
 
 ## Contact
 
-For questions or issues, please open a GitHub issue or contact [your-email@example.com].
+For questions or issues, please open a GitHub issue or contact [bentayfor.yassine@gmail.com].
